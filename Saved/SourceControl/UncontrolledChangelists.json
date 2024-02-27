@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/ball.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/CustomEnemy.uasset",
+				"U:/Documents/CS415_MP2/UnrealLearningKit/CS415_MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/MortarEnemy.uasset",
 				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
 				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"U:/Documents/CS415_MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LevelDesign.umap",
